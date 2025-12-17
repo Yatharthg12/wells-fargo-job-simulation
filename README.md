@@ -21,3 +21,5 @@ The system architecture follows a relational structure:
 * Defined One-to-Many, Many-to-One, and One-to-One relationships.
 * JPA annotations for database schema mapping.
 * Scalable architecture designed for high-uptime requirements.
+
+***Note that only src files have been provided in this repository***
